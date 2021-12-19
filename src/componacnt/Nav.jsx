@@ -24,7 +24,7 @@ function Nav(){
 
                 </div>
                 <div className="menu">
-                    <ul className={click ? "nav-active" : "nav-menu"}>
+                    <ul className={click ? "nav-menu" : "nav-active"}>
                         <li>
                             <a href="#">HOME</a>
                         </li>
