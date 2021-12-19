@@ -13,7 +13,7 @@ function About(){
                     
                     <div className="personal-about">
                         <div className="img-about">
-                            <img src="./src/img/2.png" alt="" />
+                            <img src="./img/2.png" alt="" />
                         </div>
                             
                         <div className="text-about">

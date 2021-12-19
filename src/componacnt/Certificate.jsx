@@ -1,3 +1,5 @@
+
+
 function Certificate(){
     return(
         <div className="certificate">
@@ -10,7 +12,7 @@ function Certificate(){
                         <h2 className="location-title">CS Festival: TeachSpark</h2>
 
                         <div className="location-image">
-                            <img src="./src/img/cer/AU.png" alt="" />
+                            <img src="./img/cer/AU.png" alt="" />
                         </div>
                     </article>
 
@@ -18,7 +20,7 @@ function Certificate(){
                         <h2 className="location-title">Inspire IT65</h2>
 
                         <div className="location-image">
-                            <img src="./src/img/cer/itx.jpg" alt="" />
+                            <img src="./img/cer/itx.jpg" alt="" />
                         </div>
                     </article>
 
@@ -26,7 +28,7 @@ function Certificate(){
                         <h2 className="location-title">TOCPC 2021</h2>
 
                         <div className="location-image">
-                            <img src="./src/img/cer/TOCPC.jpeg" alt="" />
+                            <img src="./img/cer/TOCPC.jpeg" alt="" />
                         </div>
                     </article>
 
@@ -34,7 +36,7 @@ function Certificate(){
                         <h2 className="location-title">ศิลปะหัตถกรรม ครั้งที่ 68</h2>
 
                         <div className="location-image">
-                            <img src="./src/img/cer/m3.png" alt="" />
+                            <img src="./img/cer/m3.png" alt="" />
                         </div>
                     </article>
 
