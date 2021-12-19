@@ -416,7 +416,7 @@ footer{
     width: 100%;
   }
   .grid-Certificate{
-    width: 480px;
+    width: 300px;
     margin: 0 auto;
     /* display: flex; */
   }
@@ -426,16 +426,17 @@ footer{
     flex-direction: column;
   }
   .location-listing{
-    height: 150px;
+    height: 100%;
   }
   .location-image {
     width: 100%;
   }
   .location-image img{
-    height: 150px;
+    height: 100%;
+    width: 100%;
   }
   .location-title{
-    height: 150px;
+    height: 100%;
     width: 100%;
   }
   .Contact{
