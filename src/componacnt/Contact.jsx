@@ -30,7 +30,7 @@ function Contact(){
                         <a href={ig}>
                             <div className="text-link-item">
                                 <h1><BsInstagram /></h1>
-                                <h2>Narutchai Mauensaen</h2>
+                                <h2>naruaichai</h2>
                             </div>
                         </a>
                     </div>
@@ -39,7 +39,7 @@ function Contact(){
                         <a href={gith}>
                             <div className="text-link-item">
                                 <h1><BsGithub /></h1>
-                                <h2>Narutchai Mauensaen</h2>
+                                <h2>Narutchai01</h2>
                             </div>
                         </a>
                     </div>
