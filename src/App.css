@@ -425,6 +425,19 @@ footer{
     display: flex;
     flex-direction: column;
   }
+  .location-listing{
+    height: 150px;
+  }
+  .location-image {
+    width: 100%;
+  }
+  .location-image img{
+    height: 150px;
+  }
+  .location-title{
+    height: 150px;
+    width: 100%;
+  }
   .Contact{
     padding-bottom: 10px;
     width: 100%;
