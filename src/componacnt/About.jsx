@@ -3,7 +3,7 @@
 
 function About(){
 
-     const au = 'https://media.discordapp.net/attachments/796761749390753862/922138264465453106/1.jpg?width=369&height=554'
+    const aboutimg = 'https://media.discordapp.net/attachments/796761749390753862/922138264465453106/1.jpg?width=369&height=554'
     return(
         <div className="About">
             {/* <h1>ABOUT ME</h1> */}
@@ -13,7 +13,7 @@ function About(){
                     
                     <div className="personal-about">
                         <div className="img-about">
-                            <img src={au} alt="" />
+                            <img src={aboutimg} alt="" />
                         </div>
                             
                         <div className="text-about">

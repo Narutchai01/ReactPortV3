@@ -4,6 +4,9 @@ import { Typewriter, useTypewriter, Cursor } from 'react-simple-typewriter'
 
 
 function Home(){
+    
+
+    const homeimg = 'https://media.discordapp.net/attachments/796761749390753862/922138264465453106/1.jpg?width=369&height=554';
 
     return(
         <div className="home">
@@ -40,7 +43,7 @@ function Home(){
                 </div>
 
                 <div className="home-img">
-                    <img src="./2.png" alt="" />
+                    <img src={homeimg} alt="" />
                 </div>
             </div>
         </div>
