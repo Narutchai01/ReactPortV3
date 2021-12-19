@@ -319,13 +319,13 @@ footer{
 .social-footer a:hover{
   color: #081439;;
 }
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 768px) {
   body{
-    width: 360px;
+    width: 100%;
   }
   nav{
     height: auto;
-    width: 360px;
+    width: 100%;
     /* display: flex; */
   }
   .menubar{
