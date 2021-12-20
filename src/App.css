@@ -370,6 +370,9 @@ footer{
   .home{
     width: 100%;
   }
+  .title h3{
+    font-size: 25px;
+  }
   .home-container{
     width: 100%;
     display: flex;

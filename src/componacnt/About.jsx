@@ -21,7 +21,7 @@ function About(){
                                 <h3>hello </h3>
                             </div>
                             <div className="data">
-                                <h3>My name is Narutchai Mauensaen </h3>
+                                <h3>My name is Narutchai Mauensaen, I was born 15 july 2003. My motto is may the force be with you.  </h3>
                             </div>
                         </div>
                     </div>
