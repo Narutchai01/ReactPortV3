@@ -6,9 +6,9 @@ function Contact(){
 
     const fb = "https://www.facebook.com/narutchai.mauensaen/";
 
-    const ig = "https://www.instagram.com/naruaichai/";
+    const ig = "https://www.instagram.com/naruaichai.jsx/";
 
-    const github = "https://github.com/Narutchai01.jsx";
+    const github = "https://github.com/Narutchai01";
 
     return(
         <div className="Contact">

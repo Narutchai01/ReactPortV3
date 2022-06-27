@@ -14,7 +14,7 @@ function Home(){
                 <div className="home-text">
                     <div className="home-social">
                         <a href="https://www.facebook.com/narutchai.mauensaen/" ><BsFacebook /></a>
-                        <a href="https://www.instagram.com/naruaichai/" ><BsInstagram /></a>
+                        <a href="https://www.instagram.com/naruaichai.jsx/" ><BsInstagram /></a>
                         <a href="https://github.com/Narutchai01" ><BsGithub /></a>
                     </div>
 
