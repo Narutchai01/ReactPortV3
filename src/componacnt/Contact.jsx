@@ -8,7 +8,7 @@ function Contact(){
 
     const ig = "https://www.instagram.com/naruaichai/";
 
-    const gith = "https://github.com/Narutchai01";
+    const github = "https://github.com/Narutchai01.jsx";
 
     return(
         <div className="Contact">
@@ -36,7 +36,7 @@ function Contact(){
                     </div>
 
                     <div className="link-item">
-                        <a href={gith}>
+                        <a href={github}>
                             <div className="text-link-item">
                                 <h1><BsGithub /></h1>
                                 <h2>Narutchai01</h2>
